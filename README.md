@@ -1,11 +1,11 @@
 <!-- 1. O BANNER -->
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DO_BANNER" alt="Programo, logo existo."/>
+  <img src="" alt="Programo, logo existo."/>
 </p>
 
 <!-- 2. A APRESENTAÇÃO -->
 <h1 align="center">Olá, eu sou o Gabriel 👋</h1>
-<h3 align="center">Um engenheiro de software em formação apaixonado por transformar problemas complexos em soluções elegantes.</h3>
+<h3 align="center">Um engenheiro de software em formação que respira por transformar problemas complexos em soluções elegantes.</h3>
 <br>
 
 <!-- 3. SOBRE MIM -->
@@ -13,7 +13,7 @@
 - 🌱 Aprofundando meus conhecimentos em **JavaScript Moderno (ES6+), TypeScript e React**.
 - 🤔 Explorando os fundamentos da computação com **C** e **Assembly**.
 - 💬 Me pergunte sobre: Arquitetura de Front-end, Otimização de Performance e Estruturas de Dados.
-- 📫 Como me encontrar: [LinkedIn](URL_DO_SEU_LINKEDIN)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gabriel-trist%C3%A3o-46254434b/)
 
 <br>
 

@@ -1,6 +1,6 @@
 <!-- 1. O BANNER -->
 <p align="center">
-  <img src="" alt="Programo, logo existo."/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFPHvahtrgYnw/profile-displaybackgroundimage-shrink_350_1400/B4EZhtfpd1HIAk-/0/1754183670508?e=1757548800&v=beta&t=h3EmRDQCv7CAStt7_LZDx-1178rAQRPQv86_Zz3L12w" alt="Programo, logo existo."/>
 </p>
 
 <!-- 2. A APRESENTAÇÃO -->

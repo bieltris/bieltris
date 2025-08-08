@@ -9,11 +9,11 @@
 <br>
 
 <!-- 3. SOBRE MIM -->
-- 🔭 Atualmente trabalhando em um sistema web full-stack com **Grails** e **JavaScript**.
+- 👨🏻‍🔧 Atualmente trabalhando em um sistema web full-stack com **Grails** e **JavaScript**.
 - 🌱 Aprofundando meus conhecimentos em **JavaScript Moderno (ES6+), TypeScript e React**.
 - 🤔 Explorando os fundamentos da computação com **C** e **Assembly**.
-- 💬 Me pergunte sobre: Arquitetura de Front-end, Otimização de Performance e Estruturas de Dados.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gabriel-trist%C3%A3o-46254434b/)
+- 🧑🏻‍💻 Me pergunte sobre: Arquitetura de Front-end/Back-end, Técnicas de otimização e Estruturas de Dados.
+- 📫 Meu linkedin: [LinkedIn](https://www.linkedin.com/in/gabriel-trist%C3%A3o-46254434b/)
 
 <br>
 

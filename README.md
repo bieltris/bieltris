@@ -19,7 +19,30 @@
 
 <!-- 4. STATS (Opcional, mas legal) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bieltris&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bieltris&theme=highcontrast&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieltris&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
+  <!-- Card 1: Stats Gerais -->
+  <a href="https://github.com/bieltris">
+    <img 
+      width="49%" 
+      src="https://github-readme-stats.vercel.app/api?username=bieltris&theme=highcontrast&show_icons=true&count_private=true" 
+      alt="Estatísticas Gerais do GitHub"
+    />
+  </a>
+  
+  <!-- Card 2: Linguagens Mais Usadas -->
+  <a href="https://github.com/bieltris">
+    <img 
+      width="49%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieltris&theme=highcontrast&layout=compact&langs_count=7" 
+      alt="Linguagens Mais Usadas"
+    />
+  </a>
+  
+  <!-- Card 3: Streak (Sequência de Contribuições) - URL CORRIGIDA -->
+  <a href="https://github.com/bieltris">
+    <img 
+      width="49%" 
+      src="https://streak-stats.demolab.com/?user=bieltris&theme=highcontrast" 
+      alt="Estatísticas de Streak do GitHub"
+    />
+  </a>
 </p>

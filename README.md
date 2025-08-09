@@ -19,6 +19,7 @@
 
 <!-- 4. STATS (Opcional, mas legal) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bieltris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieltris&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bieltris&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bieltris&theme=highcontrast&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieltris&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
 </p>

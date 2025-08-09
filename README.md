@@ -22,7 +22,7 @@
   <!-- Card 1: Stats Gerais -->
   <a href="https://github.com/bieltris">
     <img 
-      width="49%" 
+      width="40%" 
       src="https://github-readme-stats.vercel.app/api?username=bieltris&theme=highcontrast&show_icons=true&count_private=true" 
       alt="Estatísticas Gerais do GitHub"
     />
@@ -31,7 +31,7 @@
   <!-- Card 2: Linguagens Mais Usadas -->
   <a href="https://github.com/bieltris">
     <img 
-      width="49%" 
+      width="36%" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieltris&theme=highcontrast&layout=compact&langs_count=7" 
       alt="Linguagens Mais Usadas"
     />
@@ -40,7 +40,7 @@
   <!-- Card 3: Streak (Sequência de Contribuições) - URL CORRIGIDA -->
   <a href="https://github.com/bieltris">
     <img 
-      width="49%" 
+      width="41%" 
       src="https://streak-stats.demolab.com/?user=bieltris&theme=highcontrast" 
       alt="Estatísticas de Streak do GitHub"
     />

@@ -4,7 +4,7 @@
 </p>
 
 <!-- 2. A APRESENTAÇÃO -->
-<h1 align="center">Eai, eu sou o Gabriel 👋</h1>
+<h1 align="center">Eai, eu sou o Gabriel 👋!</h1>
 <h3 align="center">Um engenheiro de software em formação que respira por transformar problemas complexos em soluções elegantes.</h3>
 <br>
 
